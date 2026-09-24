@@ -12,9 +12,9 @@ Live Demo: https://pdf-rag-chatbot-ffav7ulz59q2o2tmzsz2zv.streamlit.app/
 
 ## 📸 Project Screenshot
 
-screenshots/chatbot.png
+<img width="1912" height="861" alt="image" src="https://github.com/user-attachments/assets/64082bb9-d320-45fc-aebf-02f634983a6c" />
 
-> Add a screenshot of your application by creating a `screenshots` folder and saving your image as `chatbot.png`.
+
 
 ---
 
