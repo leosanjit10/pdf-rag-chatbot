@@ -81,9 +81,10 @@ pdf-rag-chatbot/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/pdf-rag-chatbot.git
+git clone https://github.com/leosanjit10/pdf-rag-chatbot.git
 cd pdf-rag-chatbot
 ```
+
 
 ### 2. Create a Virtual Environment
 
