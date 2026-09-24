@@ -14,6 +14,7 @@ Live Demo: https://pdf-rag-chatbot-ffav7ulz59q2o2tmzsz2zv.streamlit.app/
 
 <img width="1912" height="861" alt="image" src="https://github.com/user-attachments/assets/64082bb9-d320-45fc-aebf-02f634983a6c" />
 
+<img width="1896" height="852" alt="image" src="https://github.com/user-attachments/assets/38d6496d-f26e-4ed4-969f-bc4125ebf5ed" />
 
 
 ---
