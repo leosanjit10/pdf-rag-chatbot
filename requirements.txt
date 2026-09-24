@@ -1,0 +1,12 @@
+langchain==1.4.2
+langchain-community
+langchain-classic
+langchain-groq
+langchain-text-splitters
+faiss-cpu
+sentence-transformers
+pypdf
+python-dotenv
+fastapi
+uvicorn
+streamlit
