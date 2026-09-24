@@ -4,7 +4,7 @@ An AI-powered Retrieval-Augmented Generation (RAG) chatbot that enables users to
 
 ## 🚀 Demo
 
-Live Demo: **Coming Soon**
+Live Demo: https://pdf-rag-chatbot-ffav7ulz59q2o2tmzsz2zv.streamlit.app/
 
 > Deploying on Streamlit Community Cloud
 
